@@ -1,5 +1,5 @@
-# projectParams.py
-# ----------------
+# answers.py
+# ----------
 # Licensing Information:  You are free to use or extend these projects for
 # educational purposes provided that (1) you do not distribute or publish
 # solutions, (2) you retain this notice, and (3) you provide clear
@@ -12,7 +12,5 @@
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 
 
-STUDENT_CODE_DEFAULT = 'naiveBayes.py,perceptron.py,mira.py,dataClassifier.py,answers.py,perceptron_pacman.py'
-PROJECT_TEST_CLASSES = 'classificationTestClasses.py'
-PROJECT_NAME = 'Project 5: Classification'
-BONUS_PIC = False
+def q2():
+    "*** YOUR CODE HERE ***"
